@@ -1,6 +1,5 @@
 {
   "products": [
-   
     {
       "productId": 14,
       "productName": "Test",
@@ -20,6 +19,16 @@
       "size": "Test",
       "category": "Test",
       "id": 15
+    },
+    {
+      "productId": null,
+      "productName": "tes",
+      "price": "2",
+      "color": "Black",
+      "quantity": "2",
+      "size": "Medium",
+      "category": "Clothing & Shoes",
+      "id": 16
     }
   ]
 }
