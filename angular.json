@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-material-demo"
+    }
+  },
+  "defaultProject": "angular-material-demo",
+  "cli": {
+    "analytics": "41ced9b1-1104-4213-91ad-7ea620f104dd"
+  }
 }
